@@ -1,0 +1,8 @@
+node_modules
+dist
+.vscode
+.env
+.env.local
+frontend/.env
+backend/.env
+backend/.venv
